@@ -87,3 +87,16 @@ A JavaScript-based **Interactive Quiz App** with dynamic question loading and re
 
 This approach is perfect for educators, marketers, HR professionals, and developers looking to create **fast, interactive, and responsive** web applications without relying on heavy back-end infrastructure. Thanks to modern front-end tools and platforms, building such an app is now more accessible, scalable, and customizable than ever.
 
+# oUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/939a76cc-23a7-41ba-9eda-a1e9bfad56e3"/>
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/939a76cc-23a7-41ba-9eda-a1e9bfad56e3" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/05b5c18d-d1b4-4d8a-a69b-c1a7ee3e6f42" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bf0527fc-593c-4800-a1c5-debaf297ae15" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2baaf873-936d-44ed-87d8-3bdbd48ef036" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0a0af5fa-f8b2-42c0-984e-f2cb03bf00a1" />
+
